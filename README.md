@@ -4,7 +4,7 @@ Aplikasi dibuat dengan menggunakan bahasa pemrograman <a href="https://en.wikipe
 
 # Tampilan Aplikasi
 
-<img src="screen/1.png" width="576" height="720">
+<img src="screen/1.png" width="360" height="640">
 <img src="screen/2.png">
 <img src="screen/3.png">
 <img src="screen/4.png">
