@@ -5,10 +5,10 @@ Aplikasi dibuat dengan menggunakan bahasa pemrograman <a href="https://en.wikipe
 # Tampilan Aplikasi
 
 <img src="screen/1.png" width="360" height="640">
-<img src="screen/2.png">
-<img src="screen/3.png">
-<img src="screen/4.png">
-<img src="screen/5.png">
+<img src="screen/2.png" width="360" height="640">
+<img src="screen/3.png" width="360" height="640">
+<img src="screen/4.png" width="360" height="640">
+<img src="screen/5.png" width="360" height="640">
 <img src="screen/6.png">
 <img src="screen/7.png">
 <img src="screen/8.png">
