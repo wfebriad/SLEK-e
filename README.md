@@ -4,14 +4,14 @@ Aplikasi dibuat dengan menggunakan bahasa pemrograman <a href="https://en.wikipe
 
 # Tampilan Aplikasi
 
-![alt tag]<img src="screen/1.png" width="480" height="720">
-![alt tag]<img src="screen/2.png">
-![alt tag]<img src="screen/3.png">
-![alt tag]<img src="screen/4.png">
-![alt tag]<img src="screen/5.png">
-![alt tag]<img src="screen/6.png">
-![alt tag]<img src="screen/7.png">
-![alt tag]<img src="screen/8.png">
+<img src="screen/1.png" width="576" height="720">
+<img src="screen/2.png">
+<img src="screen/3.png">
+<img src="screen/4.png">
+<img src="screen/5.png">
+<img src="screen/6.png">
+<img src="screen/7.png">
+<img src="screen/8.png">
 
 # Library
 - <a href="https://square.github.io/retrofit/">Retrofit</a>
